@@ -1,0 +1,28 @@
+[
+    {
+      "key": "ricS",
+      "name": "HORIZON X RIC-S",
+      "image": "https://www.hear.com/in/wp-content/uploads/sites/17/2022/12/5.-HORIZON-X-CIC.jpg",
+      "description": "Description of RIC S"
+    },
+    {
+      "key": "cic",
+      "name": "HORIZON AX RIC-S",
+      "image": "https://www.hear.com/in/wp-content/uploads/sites/17/2022/12/6.-HORIZON-X-RIC-S.png",
+      "description": "Description of CIC"
+    },
+    {
+        "key": "cir",
+        "name": "HORIZON AX RIC-R",
+        "image": "https://www.hear.com/in/wp-content/uploads/sites/17/2022/12/2.-HORIZON-AX-RIC-R.jpg",
+        "description": "Description of CIC"
+      },
+      {
+        "key": "cic",
+        "name": "HORIZON AX ITC-R",
+        "image": "https://www.hear.com/in/wp-content/uploads/sites/17/2022/12/4.-HORIZON-AX-ITC-R.jpg",
+        "description": "Description of CIC"
+      }
+    
+  ]
+  
